@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "index": "https://enrey.github.io/work-calendar/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://enrey.github.io/work-calendar/favicon.ico",
+        "https://enrey.github.io/work-calendar/index.html",
+        "https://enrey.github.io/work-calendar/main.10ec650ed1c082aa915f.js",
+        "https://enrey.github.io/work-calendar/polyfills.3eb7881d3a00da6c675e.js",
+        "https://enrey.github.io/work-calendar/runtime.a5dd35324ddfd942bef1.js",
+        "https://enrey.github.io/work-calendar/styles.8d4d04318b99335ae102.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://enrey.github.io/work-calendar/assets/icons/icon-128x128.png",
+        "https://enrey.github.io/work-calendar/assets/icons/icon-144x144.png",
+        "https://enrey.github.io/work-calendar/assets/icons/icon-152x152.png",
+        "https://enrey.github.io/work-calendar/assets/icons/icon-192x192.png",
+        "https://enrey.github.io/work-calendar/assets/icons/icon-384x384.png",
+        "https://enrey.github.io/work-calendar/assets/icons/icon-512x512.png",
+        "https://enrey.github.io/work-calendar/assets/icons/icon-72x72.png",
+        "https://enrey.github.io/work-calendar/assets/icons/icon-96x96.png",
+        "https://enrey.github.io/work-calendar/fontawesome-webfont.674f50d287a8c48dc19b.eot",
+        "https://enrey.github.io/work-calendar/fontawesome-webfont.912ec66d7572ff821749.svg",
+        "https://enrey.github.io/work-calendar/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
+        "https://enrey.github.io/work-calendar/fontawesome-webfont.b06871f281fee6b241d6.ttf",
+        "https://enrey.github.io/work-calendar/fontawesome-webfont.fee66e712a8a08eef580.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://enrey.github.io/work-calendar/assets/icons/icon-128x128.png": "0783275ef171a43e452732adb217db9bc2364c58",
+    "https://enrey.github.io/work-calendar/assets/icons/icon-144x144.png": "aa7285f030d43c4798a3a21c20d9480ce1ac666e",
+    "https://enrey.github.io/work-calendar/assets/icons/icon-152x152.png": "1f69de9c6bb57294d5fc9d1cb55bae075d670f7e",
+    "https://enrey.github.io/work-calendar/assets/icons/icon-192x192.png": "d9f096634feb4f36c5db1ffe4a1e6bdd42c21c24",
+    "https://enrey.github.io/work-calendar/assets/icons/icon-384x384.png": "cebf8cf73aba8bf2a3aa228b4fce8188420faab9",
+    "https://enrey.github.io/work-calendar/assets/icons/icon-512x512.png": "7d09313b86a889e59e602fb012c10dff132156a4",
+    "https://enrey.github.io/work-calendar/assets/icons/icon-72x72.png": "8588489a973d255c2e42b6c1d00561786565cac0",
+    "https://enrey.github.io/work-calendar/assets/icons/icon-96x96.png": "b32f19f2ce7b5e5b218bd8d9cad0a81113d0bcde",
+    "https://enrey.github.io/work-calendar/favicon.ico": "011d56f0d6a8693893ddf74f23c5a5894b098ca0",
+    "https://enrey.github.io/work-calendar/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "https://enrey.github.io/work-calendar/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "https://enrey.github.io/work-calendar/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "https://enrey.github.io/work-calendar/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "https://enrey.github.io/work-calendar/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "https://enrey.github.io/work-calendar/index.html": "d0a94a15478f56c70fd039af55f998480bd0a071",
+    "https://enrey.github.io/work-calendar/main.10ec650ed1c082aa915f.js": "6230624b906ce39b9b8916cb8242a0c1cee4697f",
+    "https://enrey.github.io/work-calendar/polyfills.3eb7881d3a00da6c675e.js": "6946e10a03311677a01490b8e91741668e64e17e",
+    "https://enrey.github.io/work-calendar/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://enrey.github.io/work-calendar/styles.8d4d04318b99335ae102.css": "56cb644a7f23805600e0f74872ba7c38f15d1945"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
